@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StarkShelby
+- 👋 Hi, I’m Sharique Rahmani
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning iOS 
 - 💞️ I’m looking to collaborate on ...
